@@ -8,7 +8,7 @@ ___
 + **[:us:](#us)**
 ___
 #### RU
-## О проекте ARTURIO
+## О проекте "ARTURIO"
 Репозиторий содержит исходный код для сайта об арт-пространстве. Сайт представляет собой статический ресурс, отображающий информацию о выставки, художниках, а также содержит интерактивную галерею.
 
 ### **Технологический стек:**
@@ -33,7 +33,7 @@ ___
 В целом, создание сайта об арт пространстве может представлять собой творческий и технический процесс, требующий внимания к деталям и умения решать возможные проблемы, которые могут возникнуть по ходу разработки.
 ___
 #### US
-## About the project ARTURIO
+## About the project "ARTURIO"
 The repository contains the source code for a website about the art space. The site is a static resource that displays information about exhibitions, artists, and also contains an interactive gallery.
 
 ### **Technology stack:**
