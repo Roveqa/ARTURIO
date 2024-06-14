@@ -18,7 +18,7 @@ ___
  + **Sass**
  + **JavaScript**
 
-### **Трудности, возникшие при разработке с точки зрения разработчика:**
+### **Трудности, возникшие при разработке:**
 
 **При создании сайта об арт пространстве возникнули различные трудности как с технической, так и с творческой точки зрения разработчика. Некоторые из потенциальных трудностей включают в себя:**
 
@@ -43,7 +43,7 @@ The repository contains the source code for a website about the art space. The s
  + **Sass**
  + **JavaScript**
 
-### **Difficulties encountered while developing developer viewpoints:**
+### **Difficulties encountered during development:**
 
 When creating a website about the art space, various difficulties arose, both from a technical and creative point of view of the developer. Some of the features you need to include are:
 
